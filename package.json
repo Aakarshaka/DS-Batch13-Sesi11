@@ -1,0 +1,30 @@
+{
+  "name": "ds-batch13-sesi11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aakarshaka/DS-Batch13-Sesi11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aakarshaka/DS-Batch13-Sesi11/issues"
+  },
+  "homepage": "https://github.com/Aakarshaka/DS-Batch13-Sesi11#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.47.0"
+  },
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.8.0",
+    "pixelmatch": "^7.2.0",
+    "pngjs": "^7.0.0"
+  }
+}
