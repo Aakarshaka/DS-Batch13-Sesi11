@@ -1,7 +1,7 @@
 import {Builder, By, until} from "selenium-webdriver";
 import { loginPage } from "../pages/LoginPage.js";
 import { expect } from "chai";
-import { captureScreenshot, compareScreenshots } from "../utils/VisualRegressionHelper.js";
+import { captureScreenshot, compareScreenshots } from "../utils/visualRegression.helper.js";
 
 describe("Login Page", function () {
     let driver;
